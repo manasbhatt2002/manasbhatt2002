@@ -1,16 +1,43 @@
-## Hi there 👋
+# Manas Bhatt 👨‍💻
 
-<!--
-**manasbhatt2002/manasbhatt2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN Stack)
 
-Here are some ideas to get you started:
+Focused on building scalable web applications and continuously improving backend architecture and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Programming
+- JavaScript
+- Python
+
+### Tools
+- Git & GitHub
+- REST APIs
+- Postman
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/manasbhatt0209/ 
+Email: manasbhatt09@gmail.com
+GitHub: https://github.com/manasbhatt2002
+
+---
+
+Currently working on improving full stack development and system design fundamentals.
