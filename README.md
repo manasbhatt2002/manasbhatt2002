@@ -1,18 +1,12 @@
 # Manas Bhatt 👨‍💻
 
-Full Stack Developer (MERN Stack)
+Backend Developer | Node.js · Express.js · MongoDB · REST APIs
 
 Focused on building scalable web applications and continuously improving backend architecture and problem-solving skills.
 
 ---
 
 ## 🛠 Technical Skills
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
 
 ### Backend
 - Node.js
